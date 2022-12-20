@@ -98,7 +98,7 @@ Para crear un bloque entero que contenga código lo único que tienes que hacer 
 ~~~
 # Omitir Markdown
 Cómo escribir ciertos símbolos como * o #, sin que Markdown los interprete para convertirlos en negritas,...
-Escribiendo justo delante del símbolo la barra invertida ´\´.´Ejemplo:´ Esto es un asterisco *
+Escribiendo justo delante del símbolo la barra invertida `\`.`Ejemplo:` Esto es un asterisco \*
 # Escritura Matemática
 
 + Fórmulas en línea: 
